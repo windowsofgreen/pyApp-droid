@@ -1,2 +1,6 @@
 # pyApp-droid
 Run python codes on the android ...
+
+Aid Learning FrameWork is a Linux system with GUI running on Android phone for AI programming without root. Aidlearning is also a Python programming framwork for mobile devices. In addition to some of the features available in the Linux environment, Aidlearning has supported GUI and neural network environments. For example, Caffe, Tensorflow, Mxnet, ncnn, Keras are perfectly supported.
+
+we using it to create the app of python....
